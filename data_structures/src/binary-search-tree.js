@@ -1,7 +1,4 @@
-const checkBalanced = (rootNode) => {
-  /* Your code here */
-
-};
+// 
 
 class BinarySearchTree {
   constructor(value) {
@@ -69,6 +66,11 @@ class BinarySearchTree {
       this.right.depthFirstForEach(cb);
     }
   }
+
+  // const checkBalanced = (rootNode) => {
+  //     /* Your code here */
+    
+  //   };
 }
 
 module.exports = {

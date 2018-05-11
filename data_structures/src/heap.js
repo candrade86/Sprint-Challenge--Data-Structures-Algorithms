@@ -1,7 +1,3 @@
-const heapsort = (arr) => {
-  /* Your code here */
-  
-};
 
 class Heap {
   constructor() {
@@ -63,6 +59,11 @@ class Heap {
       }
     }
   }
+
+  // const heapsort = (arr) => {
+//   /* Your code here */
+  
+// };
 }
 
 module.exports = {
